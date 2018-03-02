@@ -23,7 +23,7 @@ body, html { font-size: 100%; padding: 0; margin: 0; height: 100%;}
 
 body {
     font-family: 'Lato', Calibri, Arial, sans-serif !important;
-    color: #f2ede3;
+    /*color: #f2ede3;
     /*background-image: url('../images/whirlpool.png');*/
     background-color: black !important;
     /*font-size: 0.9em !important;*/
