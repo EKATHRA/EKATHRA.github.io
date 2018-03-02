@@ -56,7 +56,7 @@ a:hover {
 .bl-main > section {
 	position: absolute;
 	width: 50%;
-	height: 33.333333%;
+	height: 25%;
 }
 
 .bl-main > section:first-child {
@@ -72,26 +72,32 @@ a:hover {
 }
 
 .bl-main > section:nth-child(3) {
-	top: 33.333333%;
+	top: 25%;
 	left: 0;
 	background: #557A95;
 }
 
 .bl-main > section:nth-child(4) {
-	top: 33.333333%;
+	top: 25%;
 	left: 50%;
 	background: #837d84;
 }
 
 .bl-main > section:nth-child(5) {
-	top: 66.666667%;
+	top: 50%;
 	left: 0;
 	background: #9c949d;
 }
 
 .bl-main > section:nth-child(6) {
-	top: 66.666667%;
+	top: 50%;
 	left: 50%;
+	background: #395873;
+}
+
+.bl-main > section:nth-child(7) {
+	top: 75%;
+	left: 0;
 	background: #395873;
 }
 
